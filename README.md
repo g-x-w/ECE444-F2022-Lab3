@@ -87,3 +87,19 @@ npm run build
 ```powershell
 git push heroku main
 ```
+
+# Activity 1
+
+Done
+
+# Activity 2
+
+![img.png](img.png)
+
+# Activity 3
+
+![img_1.png](img_1.png)
+
+# Activity 4
+
+
